@@ -12,9 +12,9 @@ The screen shots below will give you an idea of how this application should work
 ![Screenshot](./images_for_README/note_page.png)
 
 ## Credits
-Frontend provided by UofW Coding Boot Camp
+Frontend provided by UofW Coding Boot Camp <br />
 Backend created by myself
 
 ## Questions
 Feel free to reach out to me for any questions or comments. <br/>
-Link to my GitHub: [github.com/lindseymiller2567](github.com/lindseymiller2567)
+Link to my GitHub: github.com/lindseymiller2567
