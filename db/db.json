@@ -1,16 +1,27 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Test Title 2",
-      "text": "Test text 2"
-    },
-    {
-      "title": "Test Title 3",
-      "text": "Test text 3"
-    }
-  ]
-}
+[
+  {
+    "title": "Call Mom",
+    "text": "catch up",
+    "id": "07aeaa8f-caa9-4c40-b938-6da12fa6cc14"
+  },
+  {
+    "title": "Go for walk",
+    "text": "take dog with you",
+    "id": "cb3eb2c3-6e40-4892-a803-6ff703140c91"
+  },
+  {
+    "title": "Do homework",
+    "text": "learn something",
+    "id": "0f5a8bc7-c69a-4acf-a93c-6da67a14576b"
+  },
+  {
+    "title": "Get groceries",
+    "text": "steak dinner on Saturday",
+    "id": "cee5f891-6999-4d21-beb2-49fd791d6592"
+  },
+  {
+    "title": "Do yoga",
+    "text": "and meditate",
+    "id": "074e7a6b-e12b-4a8d-b211-8f8f80d5060f"
+  }
+]
