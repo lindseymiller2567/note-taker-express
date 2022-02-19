@@ -4,16 +4,16 @@
 This application can be used to write and save notes. This application uses an Express.js backend and will save and retrieve note data from a JSON file. 
   
 ## Deployed Website
-website address tbd...
+https://secret-dawn-85455.herokuapp.com 
 
 ## Usage
 The screen shots below will give you an idea of how this application should work. <br />
-![Screenshot](./images_for_readme/readme-screenshot-1.png) <br />
-![Screenshot](./images_for_readme/readme-screenshot-2.png)
+![Screenshot](./images_for_README/homepage.png) <br />
+![Screenshot](./images_for_README/note_page.png)
 
 ## Credits
 Frontend provided by UofW Coding Boot Camp
-Backend created by me. 
+Backend created by myself
 
 ## Questions
 Feel free to reach out to me for any questions or comments. <br/>
